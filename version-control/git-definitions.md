@@ -1,5 +1,7 @@
 # Git Definitions
 
+THIS IS A MINOR CHANGE TO THIS NEWFEATURE BRANCH FILE
+
 **Instructions: ** Define each of the following Git concepts.
 
 * What is version control?  Why is it useful?
