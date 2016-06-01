@@ -15,4 +15,4 @@ A commit is saving code changes at a point in time that a programmer or reviewer
 * What is a merge conflict?
 This happens when two branches have changed the same part of the same file.  Git returns a message to resolve the conflict before a merge can take place.
 
-revised with answers
+revised original, includes replies
