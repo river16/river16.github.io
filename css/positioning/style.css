@@ -1,0 +1,22 @@
+#octopus {
+ position: relative;
+  margin-top: 150px;
+  margin-left: 36%;
+  margin-right; 36%;
+  z-index: -1;
+
+}
+
+.accessories {
+  position: relative;
+  margin-top: -365px;
+
+}
+
+.hat{
+  margin-left: -15px;
+}
+
+.glasses {
+  margin-left: 40px;
+}
